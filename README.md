@@ -70,8 +70,8 @@ This project performs exploratory data analysis (EDA) on e-commerce sales data t
 
 You can include screenshots here:
 
-[Monthly Sales_and_Profit](Monthly_Sales_and_Profit.png)
-[Top_Selling_Products](top_Selling_product.png)
+[Monthly Sales_and_Profit](Monthly_Sales_and_Profit.png), 
+[Top_Selling_Products](Top_Selling_product.png), 
 [Sales_By_Region](Sales_By_Region.png)
 
 ---
